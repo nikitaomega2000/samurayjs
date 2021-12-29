@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-kabzda-1"]=this["webpackJsonpreact-kabzda-1"]||[]).push([[6],{324:function(t,a,e){"use strict";e.r(a);e(0);var c=e(1);a.default=function(){return Object(c.jsx)("div",{children:"Friends"})}}}]);
+//# sourceMappingURL=6.70203645.chunk.js.map

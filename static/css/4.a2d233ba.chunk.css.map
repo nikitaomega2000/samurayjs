@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Content/Users/users.module.css"],"names":[],"mappings":"AAAA,0BACI,SACJ,CAEA,2BACI,eACJ","file":"4.a2d233ba.chunk.css","sourcesContent":[".AvatarPhoto {\r\n    width: 5vw;\r\n}\r\n\r\n.selectedPage {\r\n    font-weight: bold;\r\n}"]}
